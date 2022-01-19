@@ -1,0 +1,4 @@
+AuthUserFile "C:\wamp64\www\gestion\.htpasswd"
+AuthName "Accès protégé"
+AuthType Basic
+Require valid-user
